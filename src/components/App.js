@@ -11,8 +11,8 @@ function App() {
     <div id="main">
       {/* // Do not alter the main div */}
 
-      <button id='click' onClick={handleClick} >Click</button>
-	    <p id='para'>Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy </p>
+     	    <button id='click' onClick={handleClick} >Click</button>
+	    <p id='para'>Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
     </div>
   );
 }
